@@ -33,7 +33,7 @@ This is a simple project that shows my Java Core, OOP, SOLID, JDBC and Java Web 
 2. Install Apache Tomcat version 9.0.xx.
 3. Install MySQL.
 4. Create the necessary tables in your database from the file [init_db.sql](src/main/resources/init_db.sql).
-5. Cofigure fields values to your specific properties in the [ConnectionUtil](src/main/java/taxi/util/ConnectionUtil.java) class.
+5. Cofigure field values to your specific properties in the [ConnectionUtil](src/main/java/taxi/util/ConnectionUtil.java) class.
     - private static final String MYSQL_DRIVER = "com.mysql.cj.jdbc.Driver";
     - private static final String USERNAME = "YOUR_USERNAME";
     - private static final String PASSWORD = "YOUR_PASSWORD";
